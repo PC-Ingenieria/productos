@@ -70,4 +70,3 @@ function imprimirPieHTML() {
     </body>
     </html>';
 }
-// NOTA: Asegúrate de que no haya ninguna línea extra después de esta llave de cierre.
