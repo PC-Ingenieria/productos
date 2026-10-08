@@ -70,3 +70,5 @@ function imprimirPieHTML() {
     </body>
     </html>';
 }
+
+// Se agrega comentario para que actulice la rama principal
